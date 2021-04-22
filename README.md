@@ -2,5 +2,5 @@
 Bankers Algorithm Simulation: Resource allocation and deadlock avoidance algorithm in C++
 
 Compile With:
-clang++ bankers_alrgorithm.cpp - std = c++ 11 - lpthread - o name
-./name textfile_name.txt
+1) clang++ bankers_alrgorithm.cpp - std = c++ 11 - lpthread - o name
+2) ./name textfile_name.txt
